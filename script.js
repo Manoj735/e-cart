@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 let menu = document.querySelector('#menu-bar');
 let navbar = document.querySelector('.navbar');
 let header = document.querySelector('.header-3');
@@ -38,6 +38,4 @@ var swiper = new Swiper(".home-slider", {
     },
     loop:true,
 });
-=======
-'use strict';
->>>>>>> 798011ee03272b4853619e44e2e210f8c6173a22
+
